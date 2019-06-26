@@ -9,13 +9,13 @@
 yarn
 
 # serve with hot reload at localhost:9080
-yarn run dev
+yarn dev
 
 # build electron application for production win
-yarn run build
+yarn build
 
 # build electron application for production mac
-yarn run mac
+yarn mac
 
 
 ```
