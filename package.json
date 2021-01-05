@@ -53,7 +53,7 @@
     }
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "jquery": "^3.4.1",
     "vue": "^2.5.16",
     "vue-awesome-swiper": "^3.1.3",
